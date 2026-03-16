@@ -1,0 +1,10 @@
+De mémoire il s'agissait de F1 et paris sportif.
+
+Si convaincu (+ données existantes) continuez en ce sens.
+
+- Chercher à voir s'il est possible d'agréger les cotes des différents sites de paris en direct
+- Voir si vous pouvez faire une sorte de polymarket local (pour que la classe puisse jouer ou même les étudiants de Dauphine)
+- Essayer de tâter du Machine Learning pour donner des conseils de mises (espérance de gain supérieur ou proche de la cote)
+- Travailleur sur un Dashboard et un site à déployer
+
+
